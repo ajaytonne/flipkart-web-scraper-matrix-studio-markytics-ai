@@ -2,6 +2,8 @@
 
 A modular, production-ready Python web scraping system built with **Selenium**, **BeautifulSoup (bs4)**, and **Pandas** to extract product pricing, seller details, delivery timelines, and availability across a cross-matrix of Product SKU URLs and Delivery Pincodes on Flipkart.
 
+**Live dashboard:** [Open the hosted app](https://ajaytonne.github.io/flipkart-web-scraper-matrix-studio-markytics-ai/). The hosted dashboard is a static frontend; running the Selenium scraper still requires a local Python environment.
+
 ---
 
 ## 1. Architecture & Directory Structure
