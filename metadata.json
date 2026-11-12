@@ -1,0 +1,6 @@
+{
+  "name": "Flipkart Web Scraper Matrix Studio",
+  "description": "Production-ready Python web scraping pipeline and matrix automation console for Flipkart SKU URLs and Pincodes with Selenium, BeautifulSoup, and Pandas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
