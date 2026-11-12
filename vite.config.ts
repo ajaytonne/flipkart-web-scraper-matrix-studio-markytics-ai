@@ -5,6 +5,9 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    base: process.env.GITHUB_ACTIONS
+      ? '/flipkart-web-scraper-matrix-studio-markytics-ai/'
+      : '/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
